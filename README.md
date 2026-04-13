@@ -11,7 +11,7 @@ Political theorist by training, engineer by trade.
 [**Lawgiver**](https://lawgiver.ai) is the company I'm building on the side: infrastructure for legislation and legal research.
 
 - [**CongressMCP**](https://github.com/amurshak/congressMCP) — An open-source MCP server exposing 90+ tools over the full Congress.gov API. Bills, votes, members, amendments, committees, hearings — queryable from Claude Desktop, Cursor, or any MCP client. Live at [congressmcp.lawgiver.ai](https://congressmcp.lawgiver.ai).
-- [**Hololex**](https://github.com/amurshak/hololex-frontend) — A legislative AI agent (formerly Cicero). In beta.
+- [**Hololex**](https://github.com/amurshak/hololex-frontend) — A 3D spatial interface for exploring the structure of law. Thousands of legal provisions rendered as a navigable point cloud, clustered by topic, with cross-reference graphs and multiple layout modes. In beta.
 
 ---
 
