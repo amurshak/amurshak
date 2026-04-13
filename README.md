@@ -1,18 +1,37 @@
-### Hi, I'm Alex 👋
+## Alex Murshak
 
-**Law is code.** I build AI tooling at the intersection of legal, legislative, and government data — giving agents structured access to the systems that run the world.
+I build AI systems and study how technology reshapes institutions. Most of what I ship lives at the intersection of governance, legal infrastructure, and the Model Context Protocol — giving agents structured access to the data and systems that run the public sphere. I'm interested in how technology changes our relationship to power, to each other, and to ourselves; everything here is downstream of that.
 
-#### 🛠 What I'm building
+Political theorist by training, engineer by trade. Austin, TX.
 
-- **[congressMCP](https://github.com/amurshak/congressMCP)** — An MCP server that lets AI agents query the full Congress.gov API: bills, votes, committees, members, amendments. Live at [congressmcp.lawgiver.ai](https://congressmcp.lawgiver.ai).
-- **[claude-code-core-workflow](https://github.com/amurshak/claude-code-core-workflow)** — An opinionated Claude Code setup with slash commands and specialized agents that wire Linear and GitHub into a single end-to-end dev loop.
-- **[podbeanMCP](https://github.com/amurshak/podbeanMCP)** — MCP server for the Podbean API.
-- **[ethsentinel](https://github.com/amurshak/ethsentinel)** — Lightweight monitor for transactions on the latest Ethereum block.
+---
 
-#### 🧭 Interests
+### Lawgiver — AI-native government affairs
 
-Model Context Protocol · legal & legislative data · AI agents · Python · TypeScript · Ethereum
+[**Lawgiver**](https://lawgiver.ai) is the company I'm building: infrastructure for legislation, legal research, and public accountability.
 
-#### 📫 Reach me
+- [**CongressMCP**](https://github.com/amurshak/congressMCP) — An open-source MCP server exposing 90+ tools over the full Congress.gov API. Bills, votes, members, amendments, committees, hearings — queryable from Claude Desktop, Cursor, or any MCP client. Live at [congressmcp.lawgiver.ai](https://congressmcp.lawgiver.ai).
+- **Cicero** — A new interface for legal research. In beta. ([frontend](https://github.com/amurshak/hololex-frontend))
+- **DA Watch** — Accountability tooling for local prosecutors. In progress.
 
-Austin, TX — open to interesting work. Find me on [GitHub](https://github.com/amurshak) or at [lawgiver.ai](https://congressmcp.lawgiver.ai).
+---
+
+### Hacking State — writing & podcast
+
+[**Hacking State**](https://www.alexmurshak.com) is my newsletter and interview podcast on technology, power, and the systems we live inside. Conversations with founders, researchers, and philosophers about doing more with less, pushing limitations, and finding gainful exploits at every level of the human operating system — from minds and bodies to tools, organizations, and governments.
+
+*In search of exploits.*
+
+---
+
+### Other things I build
+
+- [**claude-code-core-workflow**](https://github.com/amurshak/claude-code-core-workflow) — An opinionated Claude Code setup: slash commands and specialized agents that wire Linear and GitHub into a single end-to-end dev loop.
+- [**podbeanMCP**](https://github.com/amurshak/podbeanMCP) — MCP server for the Podbean API.
+- [**ethsentinel**](https://github.com/amurshak/ethsentinel) — Lightweight monitor for transactions on the latest Ethereum block.
+
+---
+
+### Elsewhere
+
+[alexmurshak.com](https://www.alexmurshak.com) · [lawgiver.ai](https://lawgiver.ai) · [congressmcp.lawgiver.ai](https://congressmcp.lawgiver.ai) · [@distantpathos](https://x.com/distantpathos)
