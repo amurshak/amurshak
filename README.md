@@ -8,10 +8,12 @@ Political theorist by training, engineer by trade. I write at [alexmurshak.com](
 
 ### Lawgiver
 
-[**Lawgiver**](https://lawgiver.ai) — AI-native infrastructure for legislation and legal research. Two projects came out of this work:
+[**Lawgiver**](https://lawgiver.ai) — AI-native infrastructure for legislation and legal research. Four projects came out of this work:
 
+- **Lawgiver Platform** — The original MVP. An LLM-powered legislative intelligence tool for policy teams: plain-English Q&A over bills, sector alerts, and policy briefs. Django + Chroma RAG over the Congress.gov corpus.
 - [**CongressMCP**](https://github.com/amurshak/congressMCP) — An open-source MCP server exposing 90+ tools over the full Congress.gov API. Bills, votes, members, amendments, committees, hearings — queryable from Claude Desktop, Cursor, or any MCP client.
 - [**Hololex**](https://github.com/amurshak/hololex-frontend) — A 3D spatial interface for exploring the structure of law. Thousands of legal provisions rendered as a navigable point cloud, clustered by topic, with cross-reference graphs and multiple layout modes.
+- **DAWatch** — A directory of US district attorneys with real-time news monitoring. Searchable profiles, per-DA RSS feeds, individual detail pages, and social sharing. Built to make prosecutorial offices more accessible to the public.
 
 ---
 
