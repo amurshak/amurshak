@@ -2,7 +2,7 @@
 
 I build AI systems and study how technology reshapes institutions. Most of what I ship lives at the intersection of governance, legal infrastructure, and the Model Context Protocol — giving agents structured access to the data and systems that run the public sphere. I'm interested in how technology changes our relationship to power, to each other, and to ourselves; everything here is downstream of that.
 
-Political theorist by training, engineer by trade. Currently Chief Architect and Head of AI at BaseCo. Austin, TX.
+Political theorist by training, engineer by trade.
 
 ---
 
@@ -27,10 +27,9 @@ Political theorist by training, engineer by trade. Currently Chief Architect and
 
 - [**claude-code-core-workflow**](https://github.com/amurshak/claude-code-core-workflow) — An opinionated Claude Code setup: slash commands and specialized agents that wire Linear and GitHub into a single end-to-end dev loop.
 - [**podbeanMCP**](https://github.com/amurshak/podbeanMCP) — MCP server for the Podbean API.
-- [**ethsentinel**](https://github.com/amurshak/ethsentinel) — Lightweight monitor for transactions on the latest Ethereum block.
 
 ---
 
 ### Elsewhere
 
-[alexmurshak.com](https://www.alexmurshak.com) · [lawgiver.ai](https://lawgiver.ai) · [congressmcp.lawgiver.ai](https://congressmcp.lawgiver.ai) · [@distantpathos](https://x.com/distantpathos)
+[alexmurshak.com](https://www.alexmurshak.com) · [lawgiver.ai](https://lawgiver.ai) · [congressmcp.lawgiver.ai](https://congressmcp.lawgiver.ai)
