@@ -1,4 +1,4 @@
-## Applied Cybernetics
+## Applied Cyberneticist
 
 I build AI systems and study how technology reshapes institutions. My work lives at the intersection of governance, legal infrastructure, and the Model Context Protocol — giving agents structured access to the data and systems that run the public sphere. I'm interested in how technology changes our relationship to power, to each other, and to ourselves; everything here is downstream of that.
 
